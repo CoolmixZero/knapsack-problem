@@ -1,0 +1,25 @@
+item         ,weight,value
+passport     ,100   ,5000
+money        ,50    ,5000
+waterbottle  ,400   ,700
+phone        ,300   ,1000
+laptop       ,1000  ,5000
+laptopcharger,300   ,5000
+sunglasses   ,100   ,300
+firstaid     ,300   ,300
+phonecharger ,300   ,700
+mint         ,100   ,500
+watch        ,100   ,800
+headphones   ,200   ,800
+book         ,100   ,700
+notebook     ,100   ,1000
+pen          ,50    ,1000
+pencil       ,50    ,1000
+eraser       ,50    ,1000
+calculator   ,100   ,700
+pencilcase   ,100   ,700
+lunchbox     ,100   ,600
+tablet       ,400   ,600
+sandwich     ,100   ,700
+snacks       ,100   ,1000
+3000
